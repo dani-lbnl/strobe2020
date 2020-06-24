@@ -1,7 +1,6 @@
 # STROBE 2020
 Lecture for [STROBE](https://strobe.colorado.edu/) center, UC Berkeley
 
-# MRS 2019
   - Title: Computer Vision for Imaging Science [[pdf]](https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing)
   - Presenter: Daniela Ushizima
   - Session Date: Jun 24th 2020
