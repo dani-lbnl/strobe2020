@@ -8,7 +8,7 @@ Lecture for [STROBE](https://strobe.colorado.edu/) center, UC Berkeley
     <td>
      <p>
       Title: Computer Vision for Imaging Science <a href='https://drive.google.com/file/d/1Avmxcra6m8vTBw4tivdKFd4vGm5wBCB4/view?usp=sharing'>[pdf]</a>
-      <li> Presenter: [Daniela Ushizima](bit.ly/idealdatascience)
+      <li> Presenter: <a href='bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: Jun 26th 2020
       <li> Time: 11:00 AM to 12:00 PM        
       </td>
